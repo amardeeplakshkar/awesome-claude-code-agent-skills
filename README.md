@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Entries](https://img.shields.io/badge/Entries-20-blue.svg)](#contents)
+[![Entries](https://img.shields.io/badge/Entries-21-blue.svg)](#contents)
 
 **Keywords:** `claude code skills` · `agent skills` · `claude skills` · `ai coding agents` · `skills for claude code` · `codex skills` · `cursor skills`
 
@@ -13,14 +13,14 @@
 
 ## Why This List
 
-Agent Skills are small instruction packs that teach a coding agent one job well, and they are everywhere right now. This list keeps it simple: 20 skills worth installing first for Claude Code and other AI coding agents, grouped by the job they do, one line each. Read a skill before you install it, because a skill can include scripts your agent will run.
+Agent Skills are small instruction packs that teach a coding agent one job well, and they are everywhere right now. This list keeps it simple: 21 skills worth installing first for Claude Code and other AI coding agents, grouped by the job they do, one line each. Read a skill before you install it, because a skill can include scripts your agent will run.
 
 ---
 
 ## Contents
 
 - Official and Discovery - 2 skills from Anthropic and Vercel to start and to find more
-- Planning and Coding Workflow - 6 skills that make agents plan, write less code and review their work
+- Planning and Coding Workflow - 7 skills that make agents plan, write less code and review their work
 - Design and Frontend - 6 skills for interfaces that look designed, not generated
 - Research, Memory and Writing - 4 skills for research, codebase maps, memory and clean prose
 - Video and Security - 2 skills for programmatic video and authorised bug hunting
@@ -46,6 +46,7 @@ Agent Skills are small instruction packs that teach a coding agent one job well,
 | [Ponytail](https://github.com/DietrichGebert/ponytail) | Makes the agent write the smallest change that works, reusing existing code and the standard library first |
 | [Caveman](https://github.com/JuliusBrussee/caveman) | Shortens agent replies to plain, terse sentences to cut output tokens while keeping code and errors exact |
 | [ECC](https://github.com/affaan-m/ECC) | Engineering system for coding agents with hundreds of skills, agents, hooks, memory and security scanning |
+| [PRism](https://github.com/sujairibrahim/prism) | Claude Code skill that turns a pull request into a visual map with a risk score and review path |
 
 ---
 
