@@ -5,7 +5,7 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Entries](https://img.shields.io/badge/Entries-21-blue.svg)](#contents)
+[![Entries](https://img.shields.io/badge/Entries-22-blue.svg)](#contents)
 
 **Keywords:** `claude code skills` · `agent skills` · `claude skills` · `ai coding agents` · `skills for claude code` · `codex skills` · `cursor skills`
 
@@ -13,7 +13,7 @@
 
 ## Why This List
 
-Agent Skills are small instruction packs that teach a coding agent one job well, and they are everywhere right now. This list keeps it simple: 21 skills worth installing first for Claude Code and other AI coding agents, grouped by the job they do, one line each. Read a skill before you install it, because a skill can include scripts your agent will run.
+Agent Skills are small instruction packs that teach a coding agent one job well, and they are everywhere right now. This list keeps it simple: 22 skills worth installing first for Claude Code and other AI coding agents, grouped by the job they do, one line each. Read a skill before you install it, because a skill can include scripts your agent will run.
 
 ---
 
@@ -22,7 +22,7 @@ Agent Skills are small instruction packs that teach a coding agent one job well,
 - Official and Discovery - 2 skills from Anthropic and Vercel to start and to find more
 - Planning and Coding Workflow - 7 skills that make agents plan, write less code and review their work
 - Design and Frontend - 6 skills for interfaces that look designed, not generated
-- Research, Memory and Writing - 4 skills for research, codebase maps, memory and clean prose
+- Research, Memory and Writing - 5 skills for research, codebase maps, memory and clean prose
 - Video and Security - 2 skills for programmatic video and authorised bug hunting
 
 ---
@@ -71,6 +71,7 @@ Agent Skills are small instruction packs that teach a coding agent one job well,
 | [Graphify](https://github.com/Graphify-Labs/graphify) | Turns a codebase or folder into a queryable knowledge graph the agent can explore instead of grepping |
 | [Claude-Mem](https://github.com/thedotmack/claude-mem) | Gives Claude Code persistent memory across sessions by recording and summarising past work locally |
 | [Humanizer](https://github.com/blader/humanizer) | Rewrites AI-sounding text so it reads like a person wrote it, without changing the facts |
+| [gutcheck](https://github.com/jain-eshan/gutcheck) | Market-research skill for Claude Code that plans a study, pulls live signals from the web and returns a verdict with evidence - free and open source |
 
 ---
 
